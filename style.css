@@ -1,0 +1,65 @@
+.jumbotron {
+    background-image: url(image/bgprofil.jpg) ;
+    background-size: cover;
+    height: 100%;
+    width: auto;
+}
+
+.jumbotron .display-4 {
+    color: rgb(103, 178, 225);
+    padding: 0;
+    margin-top: auto;
+}
+
+.jumbotron p {
+    color: black;
+    max-width: 50%;
+    text-align: justify;
+    font-size: 17px;
+}
+
+.jumbotron .btn {
+    background-color: rgb(125, 7, 7);
+    border: none;
+    border-radius: 15px;
+}
+
+.body .login{
+    background-color: rgb(247, 178, 213);
+}
+
+body {
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card:hover {
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+    transform: scale(1.02);
+}
+
+.tutorial {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.tutorial-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 15px;
+    border-color: black;
+    border: 5px;
+}
+
+footer {
+    background-color: palevioletred;
+    color: rgb(125, 7, 7);
+    padding: 10px;
+}
+
+
+
